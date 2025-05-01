@@ -3,6 +3,7 @@
 // Copyright (c) 2019 The Chromium Authors. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import "LocationPermissionStrategy.h"
 
 #if PERMISSION_LOCATION || PERMISSION_LOCATION_WHENINUSE || PERMISSION_LOCATION_ALWAYS

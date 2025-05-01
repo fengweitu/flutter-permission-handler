@@ -3,6 +3,7 @@
 // Copyright (c) 2019 The Chromium Authors. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import "PermissionManager.h"
 
 @implementation PermissionManager {

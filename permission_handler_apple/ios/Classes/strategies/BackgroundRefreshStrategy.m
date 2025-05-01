@@ -5,6 +5,7 @@
 //  Created by Sebastian Roth on 28/09/2023.
 //
 
+#import <UIKit/UIKit.h>
 #import "BackgroundRefreshStrategy.h"
 
 @implementation BackgroundRefreshStrategy

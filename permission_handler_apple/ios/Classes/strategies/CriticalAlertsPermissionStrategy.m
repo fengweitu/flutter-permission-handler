@@ -5,6 +5,7 @@
 //  Created by Neal Soni on 2021/6/8.
 //
 
+#import <UIKit/UIKit.h>
 #import "CriticalAlertsPermissionStrategy.h"
 
 #if PERMISSION_CRITICAL_ALERTS

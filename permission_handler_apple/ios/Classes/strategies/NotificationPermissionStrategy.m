@@ -5,6 +5,7 @@
 //  Created by Tong on 2019/10/21.
 //
 
+#import <UIKit/UIKit.h>
 #import "NotificationPermissionStrategy.h"
 
 #if PERMISSION_NOTIFICATIONS
