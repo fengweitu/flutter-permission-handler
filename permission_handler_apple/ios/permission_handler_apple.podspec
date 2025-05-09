@@ -15,6 +15,7 @@ Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Andro
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
+  s.frameworks = 'UIKit'
 
   s.ios.deployment_target = '8.0'
   s.static_framework = true
